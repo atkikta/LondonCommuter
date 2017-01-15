@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.docx
+*.jpeg
+*.pdf
+stantest/
+Borough/
+Interpolation/
+LSOA/
+OA/
